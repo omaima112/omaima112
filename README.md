@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=omaima112&label=Profile%20views&color=0e75b6&style=flat" alt="omaima112" />
 </p>
 
-- 🔭 I’m currently working on **TruthGuard** and **Paper Formation Software**
+- 🛠️ I use **JavaScript, HTML, CSS, React, Node.js, and Express** for most of my projects
 - 🌱 I’m learning **Backend Development (Node.js & Express)**
 - 💬 Ask me about **Frontend, JavaScript, or pattern recognition**
 - 📫 Reach me at: **omaima.ksa005@gmail.com**
