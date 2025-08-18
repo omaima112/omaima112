@@ -1,33 +1,25 @@
-# Hi, I’m Omaimah 👋
+<h1 align="center">Hi 👋, I'm Omaimah</h1>
+<h3 align="center">High school student exploring CS | Frontend Developer</h3>
 
-🎓 High school student exploring Computer Science  
-💻 Frontend Developer (HTML, CSS, JavaScript)  
-🚀 Currently learning backend basics & full-stack development  
-🌱 Building projects to solve real problems & grow my skills  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omaima112&label=Profile%20views&color=0e75b6&style=flat" alt="omaima112" /> </p>
 
----
+- 🔭 I’m currently working on **TruthGuard and Paper Formation Software**
 
-## 🛠 Tech Stack
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- 🌱 I’m currently learning **Backend development, Node.js, Express**
 
----
+- 💬 Ask me about **Frontend, JS, pattern recognition**
 
-## 📂 Projects
-- **TruthGuard** – Pattern recognition tool to detect misleading claims  
-- **Paper Formation Software** – Automatic question paper generator  
+- 📫 How to reach me **omaima.ksa005@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 📫 Contact Me
-- Email: omaima.ksa005@gmail.com  
-- [LinkedIn](your-linkedin-link)  
-- [ORCID](https://orcid.org/0009-0005-6404-8825)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omaima112&show_icons=true&locale=en&layout=compact" alt="omaima112" /></p>
 
-*Currently exploring CS, building projects, and preparing for international study opportunities.*
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omaima112&show_icons=true&locale=en" alt="omaima112" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omaima112&" alt="omaima112" /></p>
