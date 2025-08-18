@@ -43,15 +43,19 @@
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omaima112&show_icons=true&locale=en&layout=compact" alt="omaima112" />
-</p>
-<br>
+<h2 align="left">📊 GitHub Stats</h2>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=omaima112&show_icons=true&locale=en" alt="omaima112" />
 </p>
-
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omaima112&" alt="omaima112" />
+</p>
+
+---
+
+<h2 align="left">🗂️ Top Languages</h2>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omaima112&show_icons=true&locale=en&layout=compact" alt="omaima112" />
 </p>
