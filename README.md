@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omaimah</h1>
 <h3 align="center">High school student passionate about Computer Science | Frontend Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=omaima112&label=Profile%20views&color=0e75b6&style=flat" alt="omaima112" />
-</p>
 
 - 🛠️ I use **JavaScript, HTML, CSS, React, Node.js, and Express** for most of my projects
 - 🌱 I’m learning **Backend Development (Node.js & Express)**
