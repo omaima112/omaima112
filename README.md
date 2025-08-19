@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omaimah</h1>
+<h1 align="center">Hi 👋, I'm Omaima</h1>
 <h3 align="center">High school student passionate about Computer Science | Frontend Developer</h3>
 
 
