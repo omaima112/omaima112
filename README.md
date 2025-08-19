@@ -5,7 +5,7 @@
 - 🛠️ I use **JavaScript, HTML, CSS, React, Node.js, and Express** for most of my projects
 - 🌱 I’m learning **Backend Development (Node.js & Express)**
 - 💬 Ask me about **Frontend, JavaScript, or pattern recognition**
-- 📫 Reach me at: **omaima.ksa005@gmail.com**
+
 
 ---
 
