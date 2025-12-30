@@ -37,5 +37,17 @@
   - [GitHub](https://github.com/omaima112)
 
 ---
+## 📊 GitHub Stats:
+![Omaima's GitHub stats](https://github-readme-stats.vercel.app/api?username=omaima112&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omaima112&layout=compact&theme=radical)
+
+
+
+
+
+
+
+---
 
 Thanks for stopping by! 🌟 I’m always up for connecting, collaborating, and learning new things.
