@@ -20,6 +20,7 @@
   - 2nd Place in STEM & Science Exhibition for my software project  
   - Team leader & presenter – I love explaining how my code solves real-life problems  
   - Created fun projects to show gratitude & love (like birthday and Valentine webpages!)
+  - Runner-up in Frontend Mentor Hackathon (Weather app - React + Tailwind)
 
 * 👑 **Future Goals:**  
   - Become a full-stack developer  
