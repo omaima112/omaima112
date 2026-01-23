@@ -13,7 +13,7 @@
   - **Specialties:** Responsive website design, pattern recognition, AI basics
 
 * 💡 **Favourite Project:**  
-  [TruthGuard](#) – A fake news detector based on pattern recognition and AI statistics.
+  [TruthGuard](https://github.com/omaima112/TruthGuard.git) – A fake news detector based on pattern recognition and AI statistics.
 
 * 🏆 **Achievements & Experience:**  
   - Secured **scholarships** in Matric & HSSC  
